@@ -3,6 +3,8 @@
 // input: [5,6,8,9]
 // output: 7
 
+// Solutions by Colin Xie @ColinX13
+
 /**
  * @param {number[]} arr - an array of consecutive numbers inputted
  * @return {number} missingNum - the missing number or null if the array has no missing number
