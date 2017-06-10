@@ -1,6 +1,6 @@
 const expect = require('chai').expect;
 let solution = require('../solutions/17').solution;
-// solution = require('../yourSolution').solution;
+solution = require('../yourSolution').solution;
 
 describe('square array', () => {
   it('should return true for [[1,2,3],[1,2,3],[1,2,3]]', () => {
